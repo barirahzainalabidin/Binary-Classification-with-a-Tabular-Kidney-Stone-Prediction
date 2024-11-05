@@ -1,1 +1,1 @@
-# Binary-Classification-with-a-Tabular-Kidney-Stone-Prediction-
+# Binary-Classification-with-a-Tabular-Kidney-Stone-Prediction

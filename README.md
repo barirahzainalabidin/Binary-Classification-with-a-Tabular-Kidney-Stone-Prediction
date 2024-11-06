@@ -41,3 +41,16 @@ This project to classify which patient has positive kidney disease .
 
 
 # c. Classify which patient has positive kidney disease
+
+
+- True Positive (TP): Patients correctly predicted to have kidney disease. ( 94 patients )
+
+- False Positive (FP): Patients incorrectly predicted to have kidney disease ( 37 patients )
+
+- True Negative (TN): Patients correctly predicted to not have kidney disease. ( 135 patients )
+
+- False Negative (FN): Patients incorrectly predicted to not have kidney disease ( 44 patients )
+
+
+
+- From result, The model correctly predicted that 94 patients have kidney disease.
